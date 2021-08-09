@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: #fff;
+    background-image: url('./Component/Img/star.jpg');
+
+}
+
+
+.Pic{
+    display: flex;
+    justify-content: center;
+    
+}
+.Name{
+    display: flex;
+    justify-content: center;
+}
+.Address{
+    display: flex;
+    justify-content: center;
+}
+.Age{
+    display: flex;
+    justify-content: center;
+}
+.Job{
+    display: flex;
+    justify-content: center;
+}
